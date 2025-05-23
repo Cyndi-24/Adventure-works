@@ -58,5 +58,10 @@ I took up this project to challenge myself,further improve my analytics skills a
  --- 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 ---   
-   
+# ANALYSYS AND VISUALIZATION
+---
+ This report congtains two dashboard
+
+ ![image alt](
+
    
