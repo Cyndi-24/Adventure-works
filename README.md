@@ -30,10 +30,10 @@ I took up this project to challenge myself,further improve my analytics skills a
  
  # SKILLS DEMONSTRATED
  ---
- * Data Importation
+ * Data Importation;
    The dataset was saved in csv format and imported into PowerBI
  ---
- * Data Transformation
+ * Data Transformation;
   After importing the data to PowerBI, I did a lot of transformation using PowerBI query editor which involved removing unnecessary 
   columns and rows,removing duplicates,adding new columns and rows where necessary,formating the data types for each column,merging the 
   date tables using append query and creating a calendar date table using DAX measures to make the analysis easier.
