@@ -49,7 +49,12 @@ I took up this project to challenge myself,further improve my analytics skills a
    * AdventureWorks_Sales_2016
    * AdventureWorks_Sales_2017
    * AdventureWorks_Territory
-   
+   loading the data set created an automatic data model but adjustments were made which include;
+   * Adding a calendar table to the model
+   * Using DAX for cross-filtering instead of setting cross filtering direction to both as this allows for more dynamic filtering
+   * With the help of dax measures I was able to analyze the dataset,calculate ,add aggregated columns etc
+
+   [image alt](
    
    
    
