@@ -25,30 +25,30 @@ I took up this project to challenge myself,further improve my analytics skills a
 
 ---
 # DATA SOURCING
----
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
  ---
  
  # SKILLS DEMONSTRATED
+ ---
  * Data Importation
    The dataset was saved in csv format and imported into PowerBI
----
+ ---
  * Data Transformation
-  After importing the data to PoweBI, I did a lot of transformation using PowerBI query editor which involved removing unnecessary columns 
-  and rows,removing duplicates,adding new columns and rows where necessary,formating the data types for each column,merging the date 
-  tables using append query and creating a calendar date table using DAX measures to make the analysis easier.
+  After importing the data to PoweBI, I did a lot of transformation using PowerBI query editor which involved removing unnecessary 
+  columns and rows,removing duplicates,adding new columns and rows where necessary,formating the data types for each column,merging the 
+  date tables using append query and creating a calendar date table using DAX measures to make the analysis easier.
 ---
  * Data Modelling
    I have nine tables;
-   *AdventureWorks_Customers
-   *AdventureWorks_Product_category
-   *AdventureWorks_Product_Subcategory
-   *AdventureWorks_Product
-   *AdventureWorks_Returns
-   *AdventureWorks_Sales_2015
-   *AdventureWorks_Sales_2016
-   *AdventureWorks_Sales_2017
-   *AdventureWorks_Territory
+   * AdventureWorks_Customers
+   * AdventureWorks_Product_category
+   * AdventureWorks_Product_Subcategory
+   * AdventureWorks_Product
+   * AdventureWorks_Returns
+   * AdventureWorks_Sales_2015
+   * AdventureWorks_Sales_2016
+   * AdventureWorks_Sales_2017
+   * AdventureWorks_Territory
    
    
    
