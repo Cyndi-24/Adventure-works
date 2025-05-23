@@ -74,8 +74,7 @@ I took up this project to challenge myself,further improve my analytics skills a
  KPI's for customer report 2015
 ---
 
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2015.png)
-
+![image alt](
 ---
 KPI's for customer report 2016
 ---
@@ -86,6 +85,6 @@ KPI's for customer report 2016
 KPI's for customer report 2017
 ---
 
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_dashboard_2017.png)
+![image alt]
 
 ---
