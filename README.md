@@ -80,4 +80,10 @@ I took up this project to challenge myself,further improve my analytics skills a
 KPI's for customer report 2016
 ---
 
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_kpi_2016.png)
+
+---
+KPI's for customer report 2017
+---
+
 ![image alt](
