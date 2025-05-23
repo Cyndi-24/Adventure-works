@@ -62,7 +62,7 @@ I took up this project to challenge myself,further improve my analytics skills a
 # ANALYSYS AND VISUALIZATION
 ---
  This report congtains two dashboard for customer and sales
-
+---
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_dashboard_2015.png)
-
-   
+---
+![image alt](   
