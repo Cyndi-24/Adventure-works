@@ -107,5 +107,9 @@ Europe had the most customers
 ---
 What are the top 5 products by revenue?
 ---
-![image alt](
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/product_by_revenue-sales2015.png)
+Road-150,Red 48
+
+---
+Sales Report KPI's
 
