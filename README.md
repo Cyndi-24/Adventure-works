@@ -77,6 +77,8 @@ I took up this project to challenge myself,further improve my analytics skills a
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/Average_Income_%20customer_2015.png)
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/total_customers_kpi_2015.png)
 
+From 2015 t0 2016 there was an in increase in total customers by 247% and from 2016 to 2017 there was an incrsase by 15%
+
 ---
 Which gender had the most patronage?
 ---
@@ -120,3 +122,5 @@ Sales Report KPI's 2016
 Sales Report KPI's 2017
 ---
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2016.png)
+
+Comparing the KPI's across the three years there was 
