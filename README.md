@@ -65,9 +65,11 @@ I took up this project to challenge myself,further improve my analytics skills a
 ---
 
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_dashboard_2015.png)
+
+---
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2015.png)     
 
- ---
+---
  KPI's for customer report 2015
 ---
 
@@ -120,4 +122,4 @@ Sales Report KPI's 2017
 ---
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2017.png)
 
-Comparing the KPI's across the three years there was 
+Comparing the KPI's across the three years there was an increase in the total orders across the years by 307% in 2016 and   in 2017,but there was a decrease in revenue yearly as the total orders decrease thus the target of 5million was only met in 2015
