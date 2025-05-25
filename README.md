@@ -102,6 +102,7 @@ Average Income Earners patronised more than other income segments
 Which country had the most customers?
 ---
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_by_country_2015.png)
+
 Europe had the most customers
 
 ---
@@ -112,4 +113,5 @@ Road-150,Red 48
 
 ---
 Sales Report KPI's
-
+---
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/total_customers_kpi_2015.png)
