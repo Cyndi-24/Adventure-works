@@ -115,4 +115,5 @@ Road-150,Red 48
 Sales Report KPI's
 ---
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2015.png)
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2016.png)
 ![image alt](
