@@ -138,4 +138,9 @@ Bikes generated the most revenue across the three years but generated the most i
 ---
 Who are the top customers by revenue?
 ---
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customers_by_revenue_sales2015.png)
+
+---
+What was the revenue generated monthly?
+---
 ![image alt](
