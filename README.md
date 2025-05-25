@@ -54,7 +54,7 @@ I took up this project to challenge myself,further improve my analytics skills a
    * Adding a calendar table to the model
    * Using DAX for cross-filtering instead of setting cross filtering direction to both as this allows for more dynamic filtering
    * With the help of dax measures I was able to analyze the dataset,calculate ,add aggregated columns etc
-     
+  
      The image below shows the adjusted model view
  --- 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
@@ -65,10 +65,7 @@ I took up this project to challenge myself,further improve my analytics skills a
 ---
 
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_dashboard_2015.png)
- 
----
-
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2015.png)     
+ ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2015.png)     
 
  ---
  KPI's for customer report 2015
@@ -121,6 +118,6 @@ Sales Report KPI's 2016
 ---
 Sales Report KPI's 2017
 ---
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2016.png)
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_kpi_2017.png)
 
 Comparing the KPI's across the three years there was 
