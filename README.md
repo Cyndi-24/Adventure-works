@@ -150,4 +150,10 @@ Over the three year period,the revenue grows gradually increases and hits its pe
 ---
 Which country generated the most revenue?
 ---
-![image alt](
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/revenue_by_country_2015.png)
+
+Australia generated the most revenue
+
+---
+Recommendation and Conclusion
+---
