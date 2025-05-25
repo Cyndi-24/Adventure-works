@@ -101,5 +101,11 @@ Average Income Earners patronised more than other income segments
 ---
 Which country had the most customers?
 ---
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_by_country_2015.png)
+Europe had the most customers
+
+---
+What are the top 5 products by revenue?
+---
 ![image alt](
 
