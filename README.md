@@ -89,10 +89,11 @@ Which gender had the most patronage?
 ---
 Which customers by educational level patronised the most?
 ---
-!{image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_edu_level_2015.png)
+![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_edu_level_2015.png)
 Bachelors 
 
 ---
-
-
+Which customer by income segment patronised the most?
+---
+![image alt](
 
