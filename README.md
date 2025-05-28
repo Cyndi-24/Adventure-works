@@ -160,3 +160,7 @@ Australia generated the most revenue
 ---
 RECOMMENDATION AND CONCLUSION
 ---
+* Following the  monthly trend,sales gradually increases as the year begins and peaks up at June while gradually decreasing afterwards,more investigation needs to be done by the sales team to find out why in order to improve sales during the months of low sales and how to optimize and further boost revenue during May/June.
+* From product category,bikes generated the most revenue across the three years especially Road-150,Red 48 in 2015,thus there is need to constantly ensure the bikes in demand are always stocked up and readily available for purchase and delivery to the customers.
+* Europe had the most customers but it generated lesser revenue compared to Australia which generated the most revenue with lesser customers.This should be looked into by the marketing team in order promote advertisement of the company's product in thise areas.
+* Finally, since majority of the customers are average income earners the prices of the products should be looked into to ensure that the target market can afford the products. 
